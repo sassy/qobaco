@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>qubaco.</p>
+		<p>qobaco.</p>
 	</footer>
 </div>
 
