@@ -1,18 +1,19 @@
-# create-svelte
+# Qobaco
+Qobacoとは質問箱サービスのプロトタイプです。
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+質問箱サービスを作成するための検証用に作ったサービスです。
 
-## Creating a project
+技術スタックは
+- SvelteKit
+- TailwindCSS
+を採用しています。
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
 ```
+$ npm create svelte@latest qubaco
+```
+により作成
+
+
 
 ## Developing
 
