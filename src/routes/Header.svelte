@@ -4,7 +4,7 @@
 
 <header>
 	<nav class="flex space-x-4">
-		<div class="rounded-md px-3 py-2 text-sm font-bold">Qbaco</div>
+		<div class="rounded-md px-3 py-2 text-sm font-bold">Qobaco</div>
 		<ul class="flex space-x-4">
 			<li class="rounded-md px-3 py-2 text-sm font-medium" 
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
